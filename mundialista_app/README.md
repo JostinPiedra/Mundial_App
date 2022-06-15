@@ -1,6 +1,6 @@
 # mundialista_app
 
-A new Flutter project.
+Aplicación mundialista de apuestas para el mundial Qatar 2022.
 
 ## Getting Started
 
